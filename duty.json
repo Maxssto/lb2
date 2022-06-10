@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "62a35005854a998dac6cfbf5"
+  },
+  "name": "Caroline",
+  "shift": "First",
+  "date": {
+    "$date": {
+      "$numberLong": "1654120800000"
+    }
+  },
+  "department": "Alabama",
+  "ward": 1
+},{
+  "_id": {
+    "$oid": "62a354ad854a998dac6cfbf6"
+  },
+  "name": "Katline",
+  "shift": "Second",
+  "date": {
+    "$date": {
+      "$numberLong": "1754120800000"
+    }
+  },
+  "department": "Verginia",
+  "ward": 2
+},{
+  "_id": {
+    "$oid": "62a354e2854a998dac6cfbf7"
+  },
+  "name": "Samina",
+  "shift": "Third",
+  "date": {
+    "$date": {
+      "$numberLong": "1854120800000"
+    }
+  },
+  "department": "Alabama",
+  "ward": 3
+},{
+  "_id": {
+    "$oid": "62a35510854a998dac6cfbf8"
+  },
+  "name": "Root",
+  "shift": "First",
+  "date": {
+    "$date": {
+      "$numberLong": "1954120800000"
+    }
+  },
+  "department": "Verginia",
+  "ward": 4
+},{
+  "_id": {
+    "$oid": "62a35542854a998dac6cfbf9"
+  },
+  "name": "Maible",
+  "shift": "Second",
+  "date": {
+    "$date": {
+      "$numberLong": "1674120800000"
+    }
+  },
+  "department": "Alabama",
+  "ward": 1
+},{
+  "_id": {
+    "$oid": "62a35574854a998dac6cfbfa"
+  },
+  "name": "Jinx",
+  "shift": "First",
+  "date": {
+    "$date": {
+      "$numberLong": "1694120800000"
+    }
+  },
+  "department": "Verginia",
+  "ward": 2
+}]
